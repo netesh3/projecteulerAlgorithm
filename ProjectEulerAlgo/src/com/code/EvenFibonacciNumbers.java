@@ -1,7 +1,5 @@
 package com.code;
 
-import java.util.Scanner;
-
 public class EvenFibonacciNumbers {
     public static void main(String[] args) {
         int range = 4000000;
